@@ -2,7 +2,7 @@
 ## Basic Overview
 
 This is a Constraint Satisfaction Problem (CSP) in the field of Artificial Intelligence. We will use the Backtracking algorithm to solve CSPs, in a 4X4 Sudoku game.
-<p align="center"><img width=95% src="https://github.com/anirudhtulasi/AIxSudoku/blob/master/sudoko_hero_image.jpeg"></p>
+<p align="center"><img width=95% src="https://github.com/YaswanthKota/Sudoku-Solver/blob/master/sudoko_image.jpeg"></p>
 
 <br>
 
