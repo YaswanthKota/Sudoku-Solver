@@ -1,4 +1,5 @@
 ## Sudoku-Solver
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ## Basic Overview
 
 This is a Constraint Satisfaction Problem (CSP) in the field of Artificial Intelligence. We will use the Backtracking algorithm to solve CSPs, in a 4X4 Sudoku game.
